@@ -1,1 +1,3 @@
 # Password_Generator
+The goal of the JS code is to give the user a password that is defined by the needs of the user through on screen prompts.
+When the user clicks the "Generate Password" button displayed on screen, they will be prompted 4 times with questions related to their password requirements. Answering "ok" to the prompts will add all values related to each prompt to the pool of characters used in the creation of the unique password. Pressing the "cancel" button during the on screen prompts will ensure the values relating to the prompt will not be included in the password generation.
